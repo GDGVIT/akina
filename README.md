@@ -11,6 +11,7 @@ We’d like to mention that our project is completely open-source and we would w
 * [Backend: Requests Management](https://github.com/GDGVIT/hestia-requests)
 * [Backend: Reporting Users](https://github.com/GDGVIT/hestia-report)
 * [Backend: Information Feed](https://github.com/GDGVIT/hestia-info)
+* [Deployment: docker-compose](https://gist.github.com/ATechnoHazard/a7313dbb6b435e03549aedbeac73596a)
 
 ## Contact Us
 We are all ears for any suggestions and feedback that you might have for us. Please reach out to us on akina.dscvit@gmail.com for anything you want to say.
