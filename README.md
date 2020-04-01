@@ -7,7 +7,7 @@ We’d like to mention that our project is completely open-source and we would w
 * [Frontend: Web](https://github.com/GDGVIT/hestia-web)
 * [Frontend: Mobile App](https://github.com/GDGVIT/hestia-app)
 * [Backend: Authentication](https://github.com/GDGVIT/hestia-auth)
-8 [Backend: Chat Management](https://github.com/GDGVIT/hestia-chat)
+* [Backend: Chat Management](https://github.com/GDGVIT/hestia-chat)
 * [Backend: Requests Management](https://github.com/GDGVIT/hestia-requests)
 * [Backend: Reporting Users](https://github.com/GDGVIT/hestia-report)
 * [Backend: Information Feed](https://github.com/GDGVIT/hestia-info)
